@@ -4,3 +4,4 @@
 * push
 * commit
 * status
+* merge
