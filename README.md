@@ -1,6 +1,6 @@
 # udacity_repo
 
-# add
-# push
-# commit
-#status
+* add
+* push
+* commit
+* status
